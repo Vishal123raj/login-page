@@ -4,7 +4,7 @@ import { useState } from 'react';
 import { Routes, BrowserRouter as Router, Route } from 'react-router-dom'
 
 
-import Login from './components/Forms/Login.jsx';
+import Login from './components/Forms/login.jsx';
 import Home from './components/Home/Home.js';
 import Register from './components/Register/Register.js';
 
